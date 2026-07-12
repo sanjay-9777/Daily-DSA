@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sanjay-9777/Daily-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
