@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sanjay-9777/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/sanjay-9777/Daily-DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjay-9777/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sanjay-9777/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanjay-9777/Daily-DSA/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanjay-9777/Daily-DSA/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanjay-9777/Daily-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
