@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanjay-9777/Daily-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjay-9777/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjay-9777/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
