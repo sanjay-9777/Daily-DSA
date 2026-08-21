@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanjay-9777/Daily-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjay-9777/Daily-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjay-9777/Daily-DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/sanjay-9777/Daily-DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
