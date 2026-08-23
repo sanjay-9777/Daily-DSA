@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanjay-9777/Daily-DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/sanjay-9777/Daily-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjay-9777/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
