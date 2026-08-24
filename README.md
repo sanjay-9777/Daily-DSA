@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanjay-9777/Daily-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sanjay-9777/Daily-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sanjay-9777/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sanjay-9777/Daily-DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sanjay-9777/Daily-DSA/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sanjay-9777/Daily-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
