@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanjay-9777/Daily-DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjay-9777/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjay-9777/Daily-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjay-9777/Daily-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjay-9777/Daily-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjay-9777/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjay-9777/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjay-9777/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sanjay-9777/Daily-DSA/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
