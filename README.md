@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanjay-9777/Daily-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjay-9777/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -156,9 +157,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanjay-9777/Daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sanjay-9777/Daily-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
