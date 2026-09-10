@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanjay-9777/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanjay-9777/Daily-DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sanjay-9777/Daily-DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
