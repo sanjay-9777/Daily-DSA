@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanjay-9777/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sanjay-9777/Daily-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjay-9777/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/0525-contiguous-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjay-9777/Daily-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sanjay-9777/Daily-DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sanjay-9777/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/sanjay-9777/Daily-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjay-9777/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjay-9777/Daily-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/sanjay-9777/Daily-DSA/tree/master/1108-defanging-an-ip-address) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sanjay-9777/Daily-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
