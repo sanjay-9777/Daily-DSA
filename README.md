@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanjay-9777/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sanjay-9777/Daily-DSA/tree/master/0383-ransom-note) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanjay-9777/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
