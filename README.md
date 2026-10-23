@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sanjay-9777/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjay-9777/Daily-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanjay-9777/Daily-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/sanjay-9777/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanjay-9777/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanjay-9777/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sanjay-9777/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
 |  |
 | ------- |
