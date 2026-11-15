@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjay-9777/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/sanjay-9777/Daily-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1929-concatenation-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanjay-9777/Daily-DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjay-9777/Daily-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjay-9777/Daily-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanjay-9777/Daily-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sanjay-9777/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanjay-9777/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay-9777/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/sanjay-9777/Daily-DSA/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjay-9777/Daily-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjay-9777/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/sanjay-9777/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjay-9777/Daily-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjay-9777/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/sanjay-9777/Daily-DSA/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
