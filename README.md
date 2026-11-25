@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sanjay-9777/Daily-DSA/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/sanjay-9777/Daily-DSA/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sanjay-9777/Daily-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/sanjay-9777/Daily-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanjay-9777/Daily-DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sanjay-9777/Daily-DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1873-calculate-special-bonus](https://github.com/sanjay-9777/Daily-DSA/tree/master/1873-calculate-special-bonus) |
